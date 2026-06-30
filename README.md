@@ -22,19 +22,19 @@ An AI education platform for non-technical learners — making artificial intell
 ## 🌐 Business Websites I've Built & Maintain
 
 ### [Digital Navigation Solutions](https://digitalnavigationsolutions.com)
-My web and digital strategy consultancy — helping small businesses build their online presence with intention.
+My web development, AI consulting, and digital strategy consultancy — helping businesses and organizations of every size navigate their digital landscape. Services include web design, AI consulting, SEO/GEO strategy, digital identity optimization, and online course development.
 - **Stack:** HTML · CSS · JavaScript · Vercel
 
 ### [Discover to Bloom Collective](https://discover2bloom.com)
 A women's transformation coaching collective offering Discovery Map Retreats and sustained BLOOM coaching for women ready to move from stuck to thriving.
-- **Stack:** HTML · CSS · GitHub Pages
+- **Stack:** HTML · CSS · JavaScript · Formspree · GitHub Pages
 
 ### [Bloom Reimagined](https://bloomreimagined.com)
 Transition coaching for women navigating major life changes, grounded in the BLOOM Framework and Kintsugi philosophy.
-- **Stack:** HTML · CSS · GitHub Pages
+- **Stack:** HTML · CSS · JavaScript · Formspree · GitHub Pages
 
-### [KB Discovery Coach](https://kbdiscoverycoach.com)
-Personal coaching website for a life and career coach.
+### [KB Discovery Coach](https://kimblandcoaching.com)
+Client website — personal coaching site built and maintained for a life and career coach.
 - **Stack:** HTML · CSS · GitHub Pages
 
 ---
@@ -43,13 +43,15 @@ Personal coaching website for a life and career coach.
 
 ### [Nerd Hive™](https://nerdhiveofficial.com)
 Humor-driven print-on-demand apparel celebrating nerd culture in all its forms — gaming, AI, STEM, teacher life, and everything in between. Trademarks held: NERD HIVE™, NERDISM™, EMOJISM™.
-- **Stack:** HTML · CSS · GitHub Pages · Printify
+- **Stack:** HTML · CSS · Printify · Netlify
+
+*E-commerce sites with payment processing are hosted on Netlify rather than GitHub Pages, since Netlify supports private repositories with live deployment — keeping sensitive code protected while the storefront stays public and fast. I choose infrastructure based on what each project actually needs, not a one-size-fits-all approach.*
 
 ---
 
 ## ✍️ Published Writing
 
-### [We've Seen This War Before](https://noerro.com)
+### [We've Seen This War Before](https://essay.noerro.com)
 An opinion piece drawing parallels between the Vietnam War and the 2026 Iran conflict — written as a daughter of a Vietnam veteran. Published in [Common Dreams](https://commondreams.org).
 
 ---
@@ -59,13 +61,13 @@ An opinion piece drawing parallels between the Vietnam War and the 2026 Iran con
 **Frontend:** React · Vite · Tailwind · JavaScript · HTML · CSS
 **Backend:** Supabase (PostgreSQL + RLS + Storage) · Node.js
 **Payments:** Stripe
-**Hosting:** Vercel · GitHub Pages
-**Tools:** Kajabi · Printify · Resend · GoDaddy DNS
+**Hosting & Deployment:** Vercel · Netlify · GitHub Pages
+**Tools:** Kajabi · Printify · Resend · Formspree · Tally.io · GoDaddy DNS
 
 ---
 
 ## 📬 Let's Work Together
 
-I'm available for freelance web and app development projects — especially small business websites, landing pages, and React applications.
+I'm available for freelance web and app development projects — especially small business websites, landing pages, e-commerce, and React applications.
 
 Find me on [Upwork](https://upwork.com) or visit [yvonnepadilla.com](https://yvonnepadilla.com)
